@@ -33,3 +33,5 @@ The programming language used for this project is TypeScript. The project uses T
 * Improve input validation and error handling.
 * Add search and filtering options for larger user lists.
 * Deploy the application so it can be accessed online.
+
+Created by: Henry Arinze Ohia

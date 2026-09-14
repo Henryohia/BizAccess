@@ -1,0 +1,23 @@
+{
+  "name": "bizaccess",
+  "version": "1.0.0",
+  "description": "BizAccess is a simple Business User Management System built with TypeScript. The software is designed to demonstrate how TypeScript can be used to manage business users through a structured application. It allows users to be added, searched, updated, and removed while demonstrating important programming concepts such as classes, lists, functions, recursion, asynchronous functions, and exception handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henryohia/BizAccess.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Henryohia/BizAccess/issues"
+  },
+  "homepage": "https://github.com/Henryohia/BizAccess#readme",
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "typescript": "^7.0.2"
+  }
+}
